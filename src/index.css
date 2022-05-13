@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #07080c;
+}
+.speedoCard{
+  text-align: center;
+  margin: 2em;
+}
+h1{
+  text-align: center;
+  color:  #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  text-transform: uppercase; 
+}
+.speedoStyle h2{
+  color: #cbd5e1;
+  margin: 5px;
+}
+.speedoStyle p{
+  color: #94a3b8;
+  margin: 3em;
+}
+.speedoStyle img{
+  height: 50vh;
+  width: 55vw; 
+  
+}
+.speedoStyle .accel{
+  height: 5em;
+  width: 5em;
+  transform: translate(15px);
+   
+}
+.speedoStyle .break{
+  height: 3em;
+  width: 3em;
+}
